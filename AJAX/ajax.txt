@@ -1,0 +1,3 @@
+AJAX Program to retrieve data from a Txt File - Retrieve.html
+AJAX Program to retrieve all header information of a file  - HeaderRes.html
+AJAX Program to retrieve specific header information of a file  - requestSpecific.html
